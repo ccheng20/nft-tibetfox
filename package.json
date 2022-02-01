@@ -1,0 +1,27 @@
+{
+  "name": "tibetfox",
+  "version": "1.0.0",
+  "description": "Important: There is a new repo for this code.\r [https://github.com/HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine)",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Eugene Botha",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.8.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccheng20/nft-tibetfox.git"
+  },
+  "keywords": [
+    "tibetfox"
+  ],
+  "bugs": {
+    "url": "https://github.com/ccheng20/nft-tibetfox/issues"
+  },
+  "homepage": "https://github.com/ccheng20/nft-tibetfox#readme"
+}
